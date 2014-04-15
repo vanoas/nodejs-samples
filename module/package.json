@@ -1,0 +1,16 @@
+{
+    "name": "inputcheck",
+    "version": "0.0.1",
+
+    "repository": {
+        "url": "localhost"
+    },
+
+    "main": "inputcheck.js",
+
+    "directories": {
+        "doc": ".",
+        "test": "test",
+        "example": "examples"
+    }
+}

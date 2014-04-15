@@ -1,7 +1,4 @@
-/**
- * Created by vbiloshkurskyi on 4/13/14.
- */
 
-var arrays = require('./arrays');
+var checker = require('inputcheck');
 
-console.log(arrays.contactArray('Hello', [',',' ', 'world', '!!!!']));
+console.log(checker);
